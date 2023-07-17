@@ -71,9 +71,9 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Chrome Flags',
-			icon: 'flask-conical',
-			link: 'chrome://flags',
+			name: 'Aperture Laboratories',
+			icon: 'aperture',
+			link: 'https://aperturescience.com',
 		},
 		{
 			id: '5',

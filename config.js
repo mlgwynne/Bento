@@ -60,7 +60,7 @@ const CONFIG = {
 		{
 			id: '2',
 			name: 'Spotify',
-			icon: 'disk',
+			icon: 'disc',
 			link: 'https://open.spotify.com',
 		},
 		{

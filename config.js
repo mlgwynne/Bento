@@ -139,20 +139,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Garage Rock Mix',
+					link: 'https://open.spotify.com/playlist/37i9dQZF1EIdIgV7xVkqjy?si=71465deb9de64d9d',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Epic Gaming Mix',
+					link: 'https://open.spotify.com/playlist/37i9dQZF1EIf5U0u5EoJc1?si=3234f864431c4796',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Science',
+					link: 'https://open.spotify.com/album/5SyrMgltkmrgjH5tDNxCxy?si=ebd941f31add4efd',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Good Music',
+					link: 'https://open.spotify.com/playlist/37i9dQZF1Eputdz3Yd1u8b?si=f43956e799e949b0',
 				},
 			],
 		},

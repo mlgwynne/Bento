@@ -157,24 +157,24 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'gamepad',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Portal',
+					link: 'https://store.steampowered.com/app/400/Portal/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Portal 2',
+					link: 'https://store.steampowered.com/app/620/Portal_2/',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'TABS',
+					link: 'https://store.steampowered.com/app/508440/Totally_Accurate_Battle_Simulator/',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Katamari Damacy',
+					link: 'https://store.steampowered.com/app/848350/Katamari_Damacy_REROLL/',
 				},
 			],
 		},
